@@ -1,1 +1,3 @@
 # Cryptocurrencies
+## Purpose
+The main purpose of this project is to create an analysis for clients who are preparing to get into the cryptocurrency market. Further we have created a report that which cryptocurrencies are on trading market and how they could be grouped to create a classification system for this new investment. To group the cryptocurrencies, we have decided on a clustering algorithm from unsupervised machine learning. In last we will use data visualizations to share our findings.
